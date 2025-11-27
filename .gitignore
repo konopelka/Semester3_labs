@@ -1,0 +1,12 @@
+# Visual Studio junk
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.tlog
+*.vcxproj.user
+*.user
